@@ -1,0 +1,826 @@
+{
+	"b-tech": {
+		"sem1": {
+			"cse": {
+				"subj1": "CTPS",
+				"subj2": "Drawing",
+				"subj3": "Maths",
+				"subj4": "Physics",
+				"subj5": "English",
+				"subj6": "computer lab"
+			},
+			"ece": {
+				"subj1": "CTPS",
+				"subj2": "Drawing",
+				"subj3": "Maths",
+				"subj4": "Physics",
+				"subj5": "English",
+				"subj6": "computer lab"
+			},
+			"eee": {
+			"subj1": "CTPS",
+				"subj2": "Drawing",
+				"subj3": "Maths",
+				"subj4": "Physics",
+				"subj5": "English",
+				"subj6": "computer lab"
+			},
+			"mech": {
+				"subj1": "CTPS",
+				"subj2": "Drawing",
+				"subj3": "Maths",
+				"subj4": "Physics",
+				"subj5": "English",
+				"subj6": "computer lab"
+			}
+		},
+		"sem2": {
+			"cse": {
+				"subj1": "C language",
+				"subj2": "computer essentials",
+				"subj3": "c lab",
+				"subj4": "Maths",
+				"subj5": "chemistry",
+				"subj6": "EEE"
+			},
+			"ece": {
+				"subj1": "C language",
+				"subj2": "computer essentials",
+				"subj3": "c lab",
+				"subj4": "Maths",
+				"subj5": "chemistry",
+				"subj6": "EEE"
+			},
+			"eee": {
+				"subj1": "C language",
+				"subj2": "computer essentials",
+				"subj3": "c lab",
+				"subj4": "Maths",
+				"subj5": "chemistry",
+				"subj6": "EEE"
+			},
+			"mech": {
+				"subj1": "C language",
+				"subj2": "computer essentials",
+				"subj3": "c lab",
+				"subj4": "Maths",
+				"subj5": "chemistry",
+				"subj6": "EEE"
+			}
+		},
+		"sem3": {
+			"cse": {
+				"subj1": "JAVA",
+				"subj2": "Data Structures",
+				"subj3": "Digital circuits",
+				"subj4": "Maths",
+				"subj5": "JAVA lab",
+				"subj6": "DSA lab"
+			},
+			"ece": {
+				"subj1": "b131",
+				"subj2": "b132",
+				"subj3": "b133",
+				"subj4": "b134",
+				"subj5": "b135",
+				"subj6": "b136"
+			},
+			"eee": {
+				"subj1": "c131",
+				"subj2": "c132",
+				"subj3": "c133",
+				"subj4": "c134",
+				"subj5": "c135",
+				"subj6": "c136"
+			},
+			"mech": {
+				"subj1": "d131",
+				"subj2": "d132",
+				"subj3": "d133",
+				"subj4": "d134",
+				"subj5": "d135",
+				"subj6": "d136"
+			}
+		},
+		"sem4": {
+			"cse": {
+				"subj1": "a141",
+				"subj2": "a142",
+				"subj3": "a143",
+				"subj4": "a144",
+				"subj5": "a145",
+				"subj6": "a146"
+			},
+			"ece": {
+				"subj1": "b141",
+				"subj2": "b142",
+				"subj3": "b143",
+				"subj4": "b144",
+				"subj5": "b145",
+				"subj6": "b146"
+			},
+			"eee": {
+				"subj1": "c141",
+				"subj2": "c142",
+				"subj3": "c143",
+				"subj4": "c144",
+				"subj5": "c145",
+				"subj6": "c146"
+			},
+			"mech": {
+				"subj1": "d141",
+				"subj2": "d142",
+				"subj3": "d143",
+				"subj4": "d144",
+				"subj5": "d145",
+				"subj6": "d146"
+			}
+		},
+		"sem5": {
+			"cse": {
+				"subj1": "a151",
+				"subj2": "a152",
+				"subj3": "a153",
+				"subj4": "a154",
+				"subj5": "a155",
+				"subj6": "a156"
+			},
+			"ece": {
+				"subj1": "b151",
+				"subj2": "b152",
+				"subj3": "b153",
+				"subj4": "b154",
+				"subj5": "b155",
+				"subj6": "b156"
+			},
+			"eee": {
+				"subj1": "c151",
+				"subj2": "c152",
+				"subj3": "c153",
+				"subj4": "c154",
+				"subj5": "c155",
+				"subj6": "c156"
+			},
+			"mech": {
+				"subj1": "d151",
+				"subj2": "d152",
+				"subj3": "d153",
+				"subj4": "d154",
+				"subj5": "d155",
+				"subj6": "d156"
+			}
+		},
+		"sem6": {
+			"cse": {
+				"subj1": "a161",
+				"subj2": "a162",
+				"subj3": "a163",
+				"subj4": "a164",
+				"subj5": "a165",
+				"subj6": "a166"
+			},
+			"ece": {
+				"subj1": "b161",
+				"subj2": "b162",
+				"subj3": "b163",
+				"subj4": "b164",
+				"subj5": "b165",
+				"subj6": "b166"
+			},
+			"eee": {
+				"subj1": "c161",
+				"subj2": "c162",
+				"subj3": "c163",
+				"subj4": "c164",
+				"subj5": "c165",
+				"subj6": "c166"
+			},
+			"mech": {
+				"subj1": "d161",
+				"subj2": "d162",
+				"subj3": "d163",
+				"subj4": "d164",
+				"subj5": "d165",
+				"subj6": "d166"
+			}
+		},
+		"sem7": {
+			"cse": {
+				"subj1": "a171",
+				"subj2": "a172",
+				"subj3": "a173",
+				"subj4": "a174",
+				"subj5": "a175",
+				"subj6": "a176"
+			},
+			"ece": {
+				"subj1": "b171",
+				"subj2": "b172",
+				"subj3": "b173",
+				"subj4": "b174",
+				"subj5": "b175",
+				"subj6": "b176"
+			},
+			"eee": {
+				"subj1": "c171",
+				"subj2": "c172",
+				"subj3": "c173",
+				"subj4": "c174",
+				"subj5": "c175",
+				"subj6": "c176"
+			},
+			"mech": {
+				"subj1": "d171",
+				"subj2": "d172",
+				"subj3": "d173",
+				"subj4": "d174",
+				"subj5": "d175",
+				"subj6": "d176"
+			}
+		},
+		"sem8": {
+			"cse": {
+				"subj1": "a181",
+				"subj2": "a182",
+				"subj3": "a183",
+				"subj4": "a184",
+				"subj5": "a185",
+				"subj6": "a186"
+			},
+			"ece": {
+				"subj1": "b181",
+				"subj2": "b182",
+				"subj3": "b183",
+				"subj4": "b184",
+				"subj5": "b185",
+				"subj6": "b186"
+			},
+			"eee": {
+				"subj1": "c181",
+				"subj2": "c182",
+				"subj3": "c183",
+				"subj4": "c184",
+				"subj5": "c185",
+				"subj6": "c186"
+			},
+			"mech": {
+				"subj1": "d181",
+				"subj2": "d182",
+				"subj3": "d183",
+				"subj4": "d184",
+				"subj5": "d185",
+				"subj6": "d186"
+			}
+		}
+	},
+	"m-tech": {
+		"sem1": {
+			"cse": {
+				"subj1": "a211",
+				"subj2": "a212",
+				"subj3": "a213",
+				"subj4": "a214",
+				"subj5": "a215",
+				"subj6": "a216"
+			},
+			"ece": {
+				"subj1": "b211",
+				"subj2": "b212",
+				"subj3": "b213",
+				"subj4": "b214",
+				"subj5": "b215",
+				"subj6": "b216"
+			},
+			"eee": {
+				"subj1": "c211",
+				"subj2": "c212",
+				"subj3": "c213",
+				"subj4": "c214",
+				"subj5": "c215",
+				"subj6": "c216"
+			},
+			"mech": {
+				"subj1": "d211",
+				"subj2": "d212",
+				"subj3": "d213",
+				"subj4": "d214",
+				"subj5": "d215",
+				"subj6": "d216"
+			}
+		},
+		"sem2": {
+			"cse": {
+				"subj1": "a221",
+				"subj2": "a222",
+				"subj3": "a223",
+				"subj4": "a224",
+				"subj5": "a225",
+				"subj6": "a226"
+			},
+			"ece": {
+				"subj1": "b221",
+				"subj2": "b222",
+				"subj3": "b223",
+				"subj4": "b224",
+				"subj5": "b225",
+				"subj6": "b226"
+			},
+			"eee": {
+				"subj1": "c221",
+				"subj2": "c222",
+				"subj3": "c223",
+				"subj4": "c224",
+				"subj5": "c225",
+				"subj6": "c226"
+			},
+			"mech": {
+				"subj1": "d221",
+				"subj2": "d222",
+				"subj3": "d223",
+				"subj4": "d224",
+				"subj5": "d225",
+				"subj6": "d226"
+			}
+		},
+		"sem3": {
+			"cse": {
+				"subj1": "a231",
+				"subj2": "a232",
+				"subj3": "a233",
+				"subj4": "a234",
+				"subj5": "a235",
+				"subj6": "a236"
+			},
+			"ece": {
+				"subj1": "b231",
+				"subj2": "b232",
+				"subj3": "b233",
+				"subj4": "b234",
+				"subj5": "b235",
+				"subj6": "b236"
+			},
+			"eee": {
+				"subj1": "c231",
+				"subj2": "c232",
+				"subj3": "c233",
+				"subj4": "c234",
+				"subj5": "c235",
+				"subj6": "c236"
+			},
+			"mech": {
+				"subj1": "d231",
+				"subj2": "d232",
+				"subj3": "d233",
+				"subj4": "d234",
+				"subj5": "d235",
+				"subj6": "d236"
+			}
+		},
+		"sem4": {
+			"cse": {
+				"subj1": "a241",
+				"subj2": "a242",
+				"subj3": "a243",
+				"subj4": "a244",
+				"subj5": "a245",
+				"subj6": "a246"
+			},
+			"ece": {
+				"subj1": "b241",
+				"subj2": "b242",
+				"subj3": "b243",
+				"subj4": "b244",
+				"subj5": "b245",
+				"subj6": "b246"
+			},
+			"eee": {
+				"subj1": "c241",
+				"subj2": "c242",
+				"subj3": "c243",
+				"subj4": "c244",
+				"subj5": "c245",
+				"subj6": "c246"
+			},
+			"mech": {
+				"subj1": "d241",
+				"subj2": "d242",
+				"subj3": "d243",
+				"subj4": "d244",
+				"subj5": "d245",
+				"subj6": "d246"
+			}
+		},
+		"sem5": {
+			"cse": {
+				"subj1": "a251",
+				"subj2": "a252",
+				"subj3": "a253",
+				"subj4": "a254",
+				"subj5": "a255",
+				"subj6": "a256"
+			},
+			"ece": {
+				"subj1": "b251",
+				"subj2": "b252",
+				"subj3": "b253",
+				"subj4": "b254",
+				"subj5": "b255",
+				"subj6": "b256"
+			},
+			"eee": {
+				"subj1": "c251",
+				"subj2": "c252",
+				"subj3": "c253",
+				"subj4": "c254",
+				"subj5": "c255",
+				"subj6": "c256"
+			},
+			"mech": {
+				"subj1": "d251",
+				"subj2": "d252",
+				"subj3": "d253",
+				"subj4": "d254",
+				"subj5": "d255",
+				"subj6": "d256"
+			}
+		},
+		"sem6": {
+			"cse": {
+				"subj1": "a261",
+				"subj2": "a262",
+				"subj3": "a263",
+				"subj4": "a264",
+				"subj5": "a265",
+				"subj6": "a266"
+			},
+			"ece": {
+				"subj1": "b261",
+				"subj2": "b262",
+				"subj3": "b263",
+				"subj4": "b264",
+				"subj5": "b265",
+				"subj6": "b266"
+			},
+			"eee": {
+				"subj1": "c261",
+				"subj2": "c262",
+				"subj3": "c263",
+				"subj4": "c264",
+				"subj5": "c265",
+				"subj6": "c266"
+			},
+			"mech": {
+				"subj1": "d261",
+				"subj2": "d262",
+				"subj3": "d263",
+				"subj4": "d264",
+				"subj5": "d265",
+				"subj6": "d266"
+			}
+		}
+	},
+	"MBA": {
+		"sem1": {
+			"cse": {
+				"subj1": "a311",
+				"subj2": "a312",
+				"subj3": "a313",
+				"subj4": "a314",
+				"subj5": "a315",
+				"subj6": "a316"
+			},
+			"ece": {
+				"subj1": "b311",
+				"subj2": "b312",
+				"subj3": "b313",
+				"subj4": "b314",
+				"subj5": "b315",
+				"subj6": "b316"
+			},
+			"eee": {
+				"subj1": "c311",
+				"subj2": "c312",
+				"subj3": "c313",
+				"subj4": "c314",
+				"subj5": "c315",
+				"subj6": "c316"
+			},
+			"mech": {
+				"subj1": "d311",
+				"subj2": "d312",
+				"subj3": "d313",
+				"subj4": "d314",
+				"subj5": "d315",
+				"subj6": "d316"
+			}
+		},
+		"sem2": {
+			"cse": {
+				"subj1": "a321",
+				"subj2": "a322",
+				"subj3": "a323",
+				"subj4": "a324",
+				"subj5": "a325",
+				"subj6": "a326"
+			},
+			"ece": {
+				"subj1": "b321",
+				"subj2": "b322",
+				"subj3": "b323",
+				"subj4": "b324",
+				"subj5": "b325",
+				"subj6": "b326"
+			},
+			"eee": {
+				"subj1": "c321",
+				"subj2": "c322",
+				"subj3": "c323",
+				"subj4": "c324",
+				"subj5": "c325",
+				"subj6": "c326"
+			},
+			"mech": {
+				"subj1": "d321",
+				"subj2": "d322",
+				"subj3": "d323",
+				"subj4": "d324",
+				"subj5": "d325",
+				"subj6": "d326"
+			}
+		},
+		"sem3": {
+			"cse": {
+				"subj1": "a331",
+				"subj2": "a332",
+				"subj3": "a333",
+				"subj4": "a334",
+				"subj5": "a335",
+				"subj6": "a336"
+			},
+			"ece": {
+				"subj1": "b331",
+				"subj2": "b332",
+				"subj3": "b333",
+				"subj4": "b334",
+				"subj5": "b335",
+				"subj6": "b336"
+			},
+			"eee": {
+				"subj1": "c331",
+				"subj2": "c332",
+				"subj3": "c333",
+				"subj4": "c334",
+				"subj5": "c335",
+				"subj6": "c336"
+			},
+			"mech": {
+				"subj1": "d331",
+				"subj2": "d332",
+				"subj3": "d333",
+				"subj4": "d334",
+				"subj5": "d335",
+				"subj6": "d336"
+			}
+		},
+		"sem4": {
+			"cse": {
+				"subj1": "a431",
+				"subj2": "a432",
+				"subj3": "a433",
+				"subj4": "a434",
+				"subj5": "a435",
+				"subj6": "a436"
+			},
+			"ece": {
+				"subj1": "b431",
+				"subj2": "b432",
+				"subj3": "b433",
+				"subj4": "b434",
+				"subj5": "b435",
+				"subj6": "b436"
+			},
+			"eee": {
+				"subj1": "c431",
+				"subj2": "c432",
+				"subj3": "c433",
+				"subj4": "c434",
+				"subj5": "c435",
+				"subj6": "c436"
+			},
+			"mech": {
+				"subj1": "d431",
+				"subj2": "d432",
+				"subj3": "d433",
+				"subj4": "d434",
+				"subj5": "d435",
+				"subj6": "d436"
+			}
+		},
+		"sem5": {
+			"cse": {
+				"subj1": "a531",
+				"subj2": "a532",
+				"subj3": "a533",
+				"subj4": "a534",
+				"subj5": "a535",
+				"subj6": "a536"
+			},
+			"ece": {
+				"subj1": "b531",
+				"subj2": "b532",
+				"subj3": "b533",
+				"subj4": "b534",
+				"subj5": "b535",
+				"subj6": "b536"
+			},
+			"eee": {
+				"subj1": "c531",
+				"subj2": "c532",
+				"subj3": "c533",
+				"subj4": "c534",
+				"subj5": "c535",
+				"subj6": "c536"
+			},
+			"mech": {
+				"subj1": "d531",
+				"subj2": "d532",
+				"subj3": "d533",
+				"subj4": "d534",
+				"subj5": "d535",
+				"subj6": "d536"
+			}
+		},
+		"sem6": {
+			"cse": {
+				"subj1": "a631",
+				"subj2": "a632",
+				"subj3": "a633",
+				"subj4": "a634",
+				"subj5": "a635",
+				"subj6": "a636"
+			},
+			"ece": {
+				"subj1": "b631",
+				"subj2": "b632",
+				"subj3": "b633",
+				"subj4": "b634",
+				"subj5": "b635",
+				"subj6": "b636"
+			},
+			"eee": {
+				"subj1": "c631",
+				"subj2": "c632",
+				"subj3": "c633",
+				"subj4": "c634",
+				"subj5": "c635",
+				"subj6": "c636"
+			},
+			"mech": {
+				"subj1": "d631",
+				"subj2": "d632",
+				"subj3": "d633",
+				"subj4": "d634",
+				"subj5": "d635",
+				"subj6": "d116"
+			}
+		}
+	},
+	"BBA": {
+		"sem1": {
+			"Accounting": {
+				"subj1": "a411",
+				"subj2": "a412",
+				"subj3": "a413",
+				"subj4": "a414",
+				"subj5": "a415",
+				"subj6": "a416"
+			},
+			"Business Economics": {
+				"subj1": "b411",
+				"subj2": "b412",
+				"subj3": "b413",
+				"subj4": "b414",
+				"subj5": "b415",
+				"subj6": "b416"
+			},
+			"Business Finance": {
+				"subj1": "c411",
+				"subj2": "c412",
+				"subj3": "c413",
+				"subj4": "c414",
+				"subj5": "c415",
+				"subj6": "c416"
+			},
+			"Business Marketing": {
+				"subj1": "d411",
+				"subj2": "d412",
+				"subj3": "d413",
+				"subj4": "d414",
+				"subj5": "d415",
+				"subj6": "d416"
+			}
+		},
+		"sem2": {
+			"Accounting": {
+				"subj1": "a421",
+				"subj2": "a422",
+				"subj3": "a423",
+				"subj4": "a424",
+				"subj5": "a425",
+				"subj6": "a426"
+			},
+			"Business Economics": {
+				"subj1": "b421",
+				"subj2": "b422",
+				"subj3": "b423",
+				"subj4": "b424",
+				"subj5": "b425",
+				"subj6": "b426"
+			},
+			"Business Finance": {
+				"subj1": "c421",
+				"subj2": "c422",
+				"subj3": "c423",
+				"subj4": "c424",
+				"subj5": "c425",
+				"subj6": "c426"
+			},
+			"Business Marketing": {
+				"subj1": "d421",
+				"subj2": "d422",
+				"subj3": "d423",
+				"subj4": "d424",
+				"subj5": "d425",
+				"subj6": "d426"
+			}
+		},
+		"sem3": {
+			"Accounting": {
+				"subj1": "a431",
+				"subj2": "a432",
+				"subj3": "a433",
+				"subj4": "a434",
+				"subj5": "a435",
+				"subj6": "a436"
+			},
+			"Business Economics": {
+				"subj1": "b431",
+				"subj2": "b432",
+				"subj3": "b433",
+				"subj4": "b434",
+				"subj5": "b435",
+				"subj6": "b436"
+			},
+			"Business Finance": {
+				"subj1": "c431",
+				"subj2": "c432",
+				"subj3": "c433",
+				"subj4": "c434",
+				"subj5": "c435",
+				"subj6": "c436"
+			},
+			"Business Marketing": {
+				"subj1": "d431",
+				"subj2": "d432",
+				"subj3": "d433",
+				"subj4": "d434",
+				"subj5": "d435",
+				"subj6": "d436"
+			}
+		},
+		"sem4": {
+			"Accounting": {
+				"subj1": "a441",
+				"subj2": "a442",
+				"subj3": "a443",
+				"subj4": "a444",
+				"subj5": "a445",
+				"subj6": "a446"
+			},
+			"Business Economics": {
+				"subj1": "b441",
+				"subj2": "b442",
+				"subj3": "b443",
+				"subj4": "b444",
+				"subj5": "b445",
+				"subj6": "b446"
+			},
+			"Business Finance": {
+				"subj1": "c441",
+				"subj2": "c442",
+				"subj3": "c443",
+				"subj4": "c444",
+				"subj5": "c445",
+				"subj6": "c446"
+			},
+			"Business Marketing": {
+				"subj1": "d441",
+				"subj2": "d442",
+				"subj3": "d443",
+				"subj4": "d444",
+				"subj5": "d445",
+				"subj6": "d446"
+			}
+		}
+	}
+}
